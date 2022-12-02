@@ -14,7 +14,7 @@
 "man has dog" => "dog has man"  
 
 
-## **Task 1:**   
+## **Task 2:**   
 Iterator  
 
 ```
